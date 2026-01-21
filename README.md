@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagun751
 - I’m interested in Computational Fluid Dynamics, Ocean Engineering and Robotics.
-- I’m currently pursuing a PhD in Numerical Ocean Engineering
+- Presently, I work as a Post-doctoral Researcher at TU Delft.
 - Visit my website [shagun751.github.io](https://shagun751.github.io/)
 
 <!---
